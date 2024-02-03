@@ -40,4 +40,5 @@ Source code for web app structure
     <script src="script.js"></script>
 </body>
 </html>
+
 ```
